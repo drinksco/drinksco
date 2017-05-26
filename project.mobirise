@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-21_1940",
-    "currentPage": "hacetupedido.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -302,7 +302,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"barramovil.html\">BARRA MÓVIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">HACER MI PEDIDO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/uc?export=download&amp;id=0B23Yhs-uI4smOHFnTi1kSTdfSVE\">DESCARGAR LISTA DE PRECIOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"barramovil.html\">BARRA MÓVIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hacetupedido.html\">HACER MI PEDIDO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/uc?export=download&amp;id=0B23Yhs-uI4smOHFnTi1kSTdfSVE\">DESCARGAR LISTA DE PRECIOS</a></li>"
         },
         {
           "_tags": [
@@ -590,7 +590,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"barramovil.html\">BARRA MÓVIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">HACER MI PEDIDO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/uc?export=download&amp;id=0B23Yhs-uI4smOHFnTi1kSTdfSVE\">DESCARGAR LISTA DE PRECIOS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"barramovil.html\">BARRA MÓVIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hacetupedido.html\">HACER MI PEDIDO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://docs.google.com/uc?export=download&amp;id=0B23Yhs-uI4smOHFnTi1kSTdfSVE\">DESCARGAR LISTA DE PRECIOS</a></li>"
         }
       ]
     }
